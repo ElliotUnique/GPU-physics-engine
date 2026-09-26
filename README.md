@@ -30,3 +30,5 @@ Configured with Ninja Multi-Config:
 cmake -B build -G "Ninja Multi-Config" -DCMAKE_CONFIGURATION_TYPES="RelWithDebInfo;Release"
 cmake --build build --config Release
 ```
+
+**Demo video/GIF coming soon**
